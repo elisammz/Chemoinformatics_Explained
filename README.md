@@ -4,9 +4,9 @@
 ## 📑 Folder Overview
 Here’s what you’ll find inside:
 
-- 📂 Exercises: Hands-on problems to help you practice chemoinformatics techniques. ✍️✨
-- 📄 Notes & References: Detailed explanations and curated references for deeper understanding. 🧐📚
-- 💻 Code Examples: Ready-to-run scripts showcasing algorithms and workflows in chemoinformatics.
+- Code **Examples**: Ready-to-run scripts showcasing algorithms and workflows in chemoinformatics.
+- **Exercises**: Hands-on problems to help you practice chemoinformatics techniques. 
+- **Notes & References**: Detailed explanations and curated references for deeper understanding. 
 
 ### Folder Structure
 ```
@@ -18,12 +18,12 @@ Chemoinformatics_Explained/
 ```
 
 ## 🌟 Topics Covered
-- Introduction to Chemoinformatics 🧪
-- Chemical Databases 🗂️
-- Molecular Representations 🔗 (SMILES, InChI, etc.)
-- Descriptor Calculations 🧮
-- Machine Learning for Chemistry 🤖
-- Visualization Tools 🎨
+- Introduction to Chemoinformatics 
+- Chemical Databases 
+- Molecular Representations (SMILES, InChI, etc.)
+- Descriptor Calculations 
+- Machine Learning for Chemistry 
+- Visualization Tools 
 
 ## 🛠️ How to Use This Folder
 1. Start with the lecture slides for an overview that I provide separately.
