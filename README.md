@@ -9,12 +9,13 @@ Here’s what you’ll find inside:
 - 💻 Code Examples: Ready-to-run scripts showcasing algorithms and workflows in chemoinformatics.
 
 ### Folder Structure
+```
 Chemoinformatics_Explained/
 ├── Exercises/
 ├── Notes/
 ├── Code_Examples/
-├── CONTRIBUTING.md
 ├── README.md
+```
 
 ## 🌟 Topics Covered
 - Introduction to Chemoinformatics 🧪
@@ -29,10 +30,6 @@ Chemoinformatics_Explained/
 2. Use the notes to deepen your understanding.
 3. Try running the exercises to test your knowledge.
 4. Explore code examples for practical implementations.
-
-
-# 🤝 Contributing
-Check the file CONTRIBUTING.md for suggestions or ideas. Contributions are welcome to make this guide even better. 🌱💡
 
 📬 Questions?
 If you have any questions, feel free to reach out! 💌
